@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: verdana;
+}
+
+#pagina{
+    width: 100%;
+    height: auto ;
+}
+
+h1{
+    font-weight: bold;
+    color: white;
+}
+
+
+header{
+    width: 100%;
+    height: 80px;
+    background-color: #2A282A;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#menu{
+    height: 100%;
+}
+
+ul{
+    list-style: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+li a {
+    color: white;
+    text-decoration: none;
+
+}
+#menuHamburguer{
+width: 50px ;
+height: 50px;
+border: 2px solid white;
+background-color: transparent;
+color: white;
+display: none;
+}
+
+#menuMobile{
+    width: 100%;
+    height: 0%;
+    background-color: #2A282A;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* }
+nav{
+background-color: #2A2B2A;
+width: 100%;
+height: 50%;
+display: flex;
+flex-direction: row;
+}
+
+h2{
+    color: white;
+    margin: 10px 500px 0px 300px;
+}
+
+a{
+    text-align: right;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 15px;
+}
+b{
+    margin-top: 10px;
+}
+
+h3{
+    text-align: center;
+    width: 500px;
+    margin: 0px auto;
+    margin-bottom: 30px;
+    border-bottom: 2px solid red;
+}
+
+h4{
+    text-align: center;
+    font-size: 20px
+}
+
+#menu{
+    width: 450px;
+    height: 700px;
+    border: 1px solid gray;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#imagem{
+    width: 400px;
+    height: 500px;
+    margin: 5px 30px;
+    
+    
+}
+p{
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+}
+
+input{
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid red;
+    font-size: 15px;
+    margin-top: 20px;
+} */
